@@ -4,7 +4,7 @@ Programmer - Nick Dooley
 
 Level Design - Keith Marsh
 
-Character Design and Title Screen - Andres Piantino
+Character Design and Title Screen Design- Andres Piantino
 
 Sound Design - Jake Anderson
 
