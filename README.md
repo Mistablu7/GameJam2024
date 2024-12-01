@@ -1,9 +1,12 @@
 Source code and assest for Capture The Flag
 
 Programmer - Nick Dooley
+
 Level Design - Keith Marsh
+
 Character Design and Title Screen - Andres Piantino
 Sound Design - Jake Anderson
+
 Music - Shane Moran
 
 Sound Effect Sources
